@@ -1,4 +1,4 @@
-### 1) Para executar o jogo é necessário instalar previamente:
+### 1) Para executar o programa é necessário instalar previamente:
 
 ```
 pip install glfw
