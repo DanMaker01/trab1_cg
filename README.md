@@ -3,5 +3,5 @@
 pip install glfw
 pip install pyopengl
 
-# 2) Depois execute o jupyter notebook
+### 2) Depois execute o jupyter notebook
 
